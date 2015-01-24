@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="640.1875"
+   height="445"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="motorcontroller.svg">
+  <defs
+     id="defs4">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4997"
+       id="pattern6762"
+       patternTransform="translate(-718.59375,-39.96942)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4927"
+       id="pattern4997"
+       patternTransform="translate(57.62433,176)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern3834"
+       id="pattern4927"
+       patternTransform="translate(57.62433,176)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="445"
+       height="640.1875"
+       patternTransform="translate(-718.59375,-40.59375)"
+       id="pattern3834">
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         y="2.9365234"
+         x="-637.24164"
+         height="439.13281"
+         width="634.28571"
+         id="rect2985"
+         style="fill:#0000ff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:5.883564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="328.25"
+     inkscape:cy="197.71388"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4999"
+     showgrid="false"
+     inkscape:object-paths="false"
+     inkscape:snap-nodes="false"
+     inkscape:snap-bbox="false"
+     inkscape:bbox-paths="false"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="834"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-69.526791,-242.71429)">
+    <g
+       id="g4622"
+       transform="translate(1.9135284,1.3672903)"
+       style="fill:#000000" />
+    <g
+       transform="translate(-666.59388,-312.86263)"
+       id="layer1-4"
+       inkscape:label="Layer 1" />
+    <g
+       id="g4816"
+       transform="translate(0,-0.62433343)">
+      <g
+         id="g4999"
+         transform="translate(885.71429,185.71429)">
+        <g
+           id="g6787"
+           transform="matrix(0,1,-1,0,-215.96942,776.21808)">
+          <rect
+             style="fill:url(#pattern6762);stroke:none"
+             width="445"
+             height="640.1875"
+             x="-718.59375"
+             y="-39.969421"
+             id="rect3837" />
+          <g
+             id="g4558"
+             transform="translate(0,0.62433)">
+            <text
+               sodipodi:linespacing="125%"
+               id="text3763"
+               y="6.6472168"
+               x="-506.91858"
+               style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+               xml:space="preserve"><tspan
+                 y="6.6472168"
+                 x="-506.91858"
+                 id="tspan3765"
+                 sodipodi:role="line">Battery -</tspan></text>
+            <text
+               sodipodi:linespacing="125%"
+               id="text3763-6"
+               y="208.38293"
+               x="-511.15686"
+               style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+               xml:space="preserve"><tspan
+                 y="208.38293"
+                 x="-511.15686"
+                 id="tspan3765-8"
+                 sodipodi:role="line">Battery +</tspan></text>
+            <text
+               sodipodi:linespacing="125%"
+               id="text3763-68"
+               y="141.1377"
+               x="-506.91858"
+               style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+               xml:space="preserve"><tspan
+                 y="141.1377"
+                 x="-506.91858"
+                 id="tspan3765-4"
+                 sodipodi:role="line">Battery -</tspan></text>
+            <text
+               sodipodi:linespacing="125%"
+               id="text3763-5"
+               y="73.892456"
+               x="-511.15686"
+               style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+               xml:space="preserve"><tspan
+                 id="tspan3806"
+                 y="73.892456"
+                 x="-511.15686"
+                 sodipodi:role="line">Battery +</tspan></text>
+          </g>
+          <g
+             id="g4568"
+             transform="translate(0,0.62433)">
+            <text
+               sodipodi:linespacing="125%"
+               id="text3818"
+               y="394.12256"
+               x="-506.91858"
+               style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+               xml:space="preserve"><tspan
+                 y="394.12256"
+                 x="-506.91858"
+                 id="tspan3820"
+                 sodipodi:role="line">Motor 1 -</tspan></text>
+            <text
+               sodipodi:linespacing="125%"
+               id="text3822"
+               y="453.45764"
+               x="-511.15686"
+               style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+               xml:space="preserve"><tspan
+                 y="453.45764"
+                 x="-511.15686"
+                 id="tspan3824"
+                 sodipodi:role="line">Motor 1 +</tspan></text>
+            <text
+               sodipodi:linespacing="125%"
+               id="text3826"
+               y="512.90991"
+               x="-506.91858"
+               style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+               xml:space="preserve"><tspan
+                 y="512.90991"
+                 x="-506.91858"
+                 id="tspan3828"
+                 sodipodi:role="line">Motor 2 -</tspan></text>
+            <text
+               sodipodi:linespacing="125%"
+               id="text3830"
+               y="572.36218"
+               x="-511.15686"
+               style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+               xml:space="preserve"><tspan
+                 y="572.36218"
+                 x="-511.15686"
+                 id="tspan3832"
+                 sodipodi:role="line">Motor 2 +</tspan></text>
+          </g>
+          <g
+             id="g4829">
+            <text
+               xml:space="preserve"
+               style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+               x="-541.57483"
+               y="275.33521"
+               id="text3810"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan3812"
+                 x="-541.57483"
+                 y="275.33521">Enc. 1</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+               x="-540.67639"
+               y="334.78748"
+               id="text3814"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan3816"
+                 x="-540.67639"
+                 y="334.78748">Enc. 2</tspan></text>
+            <g
+               transform="translate(-672.93979,-311.82689)"
+               id="layer1-3"
+               inkscape:label="Layer 1">
+              <g
+                 id="g4628"
+                 style="fill:#000000"
+                 transform="translate(528.39286,316.07142)">
+                <g
+                   id="g6780">
+                  <rect
+                     transform="translate(-1.9135284,-1.3672903)"
+                     y="247.65805"
+                     x="-230.76505"
+                     height="25.714285"
+                     width="77.14286"
+                     id="rect4578"
+                     style="fill:#0000ff;fill-opacity:0;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+                  <path
+                     sodipodi:type="arc"
+                     style="fill:#000000;fill-opacity:0;stroke:#c87f26;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                     id="path4584"
+                     sodipodi:cx="-213.75"
+                     sodipodi:cy="259.68362"
+                     sodipodi:rx="1.6071428"
+                     sodipodi:ry="1.6071428"
+                     d="m -212.14286,259.68362 c 0,0.8876 -0.71954,1.60715 -1.60714,1.60715 -0.8876,0 -1.60714,-0.71955 -1.60714,-1.60715 0,-0.8876 0.71954,-1.60714 1.60714,-1.60714 0.8876,0 1.60714,0.71954 1.60714,1.60714 z"
+                     transform="matrix(0.69565217,0,0,0.69565217,-69.411492,78.498426)" />
+                  <use
+                     x="0"
+                     y="0"
+                     xlink:href="#path4584"
+                     id="use6764"
+                     transform="translate(16,0)"
+                     width="640.1875"
+                     height="445" />
+                  <use
+                     x="0"
+                     y="0"
+                     xlink:href="#use6764"
+                     id="use6766"
+                     transform="translate(16,0)"
+                     width="640.1875"
+                     height="445" />
+                  <use
+                     x="0"
+                     y="0"
+                     xlink:href="#use6766"
+                     id="use6768"
+                     transform="translate(16,0)"
+                     width="640.1875"
+                     height="445" />
+                </g>
+              </g>
+            </g>
+            <use
+               x="0"
+               y="0"
+               xlink:href="#layer1-3"
+               id="use4814"
+               transform="translate(1.5518554e-6,58.629458)"
+               width="744.09448"
+               height="1052.3622" />
+          </g>
+          <text
+             transform="matrix(0,-1,1,0,0,0)"
+             xml:space="preserve"
+             style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+             x="-554.89972"
+             y="-623.80304"
+             id="text4929"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan4931"
+               x="-554.89972"
+               y="-623.80304"
+               style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono">TETRIX Motor Controller</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

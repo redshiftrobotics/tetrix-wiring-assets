@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="640.1875"
+   height="445"
+   id="svg5034"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="servocontroller.svg">
+  <defs
+     id="defs5036">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5209"
+       id="pattern6649"
+       patternTransform="translate(-718.59375,-39.969419)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4997"
+       id="pattern5209"
+       patternTransform="translate(-718.59375,-39.969419)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4927"
+       id="pattern4997"
+       patternTransform="translate(57.62433,176)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern3834"
+       id="pattern4927"
+       patternTransform="translate(57.62433,176)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="445"
+       height="640.1875"
+       patternTransform="translate(-718.59375,-40.59375)"
+       id="pattern3834">
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         y="2.9365234"
+         x="-637.24164"
+         height="439.13281"
+         width="634.28571"
+         id="rect2985"
+         style="fill:#0000ff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:5.883564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="293.02694"
+     inkscape:cy="165.35714"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4999"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="834"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5039">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(-54.906251,-309.86218)">
+    <g
+       id="g4999"
+       transform="translate(871.09375,252.23785)">
+      <g
+         id="g6651"
+         transform="matrix(0,1,-1,0,-215.96942,776.21808)">
+        <text
+           transform="matrix(0,-1,1,0,0,0)"
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="-554.89972"
+           y="-623.80304"
+           id="text4929"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4931"
+             x="-554.89972"
+             y="-623.80304"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono">TETRIX Servo Controller</tspan></text>
+        <rect
+           style="fill:url(#pattern6649);stroke:none"
+           width="445"
+           height="640.1875"
+           x="-718.59375"
+           y="-39.969421"
+           id="rect3837" />
+        <g
+           id="g4558"
+           transform="translate(1.3867187e-6,4.6243314)">
+          <text
+             sodipodi:linespacing="125%"
+             id="text3763"
+             y="6.6472168"
+             x="-506.91858"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+             xml:space="preserve"><tspan
+               y="6.6472168"
+               x="-506.91858"
+               id="tspan3765"
+               sodipodi:role="line">Battery -</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text3763-6"
+             y="208.38293"
+             x="-511.15686"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+             xml:space="preserve"><tspan
+               y="208.38293"
+               x="-511.15686"
+               id="tspan3765-8"
+               sodipodi:role="line">Battery +</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text3763-68"
+             y="141.1377"
+             x="-506.91858"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+             xml:space="preserve"><tspan
+               y="141.1377"
+               x="-506.91858"
+               id="tspan3765-4"
+               sodipodi:role="line">Battery -</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text3763-5"
+             y="73.892456"
+             x="-511.15686"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+             xml:space="preserve"><tspan
+               id="tspan3806"
+               y="73.892456"
+               x="-511.15686"
+               sodipodi:role="line">Battery +</tspan></text>
+        </g>
+        <g
+           id="g5950">
+          <text
+             xml:space="preserve"
+             style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+             x="-567.5592"
+             y="287.20279"
+             id="text5211-6"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan5213-8"
+               x="-567.5592"
+               y="287.20279"
+               style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono">Chan. 1</tspan></text>
+          <g
+             inkscape:label="Layer 1"
+             id="layer1-3"
+             transform="matrix(-1,0,0,-1,-4.3683538,848.12522)">
+            <g
+               transform="translate(528.39286,316.07142)"
+               style="fill:#000000"
+               id="g4628">
+              <rect
+                 transform="translate(-1.9135284,-1.3672903)"
+                 y="247.65805"
+                 x="-230.76505"
+                 height="25.714285"
+                 width="77.14286"
+                 id="rect4578"
+                 style="fill:#0000ff;fill-opacity:0;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+              <path
+                 sodipodi:type="arc"
+                 style="fill:#000000;fill-opacity:0;stroke:#c87f26;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                 id="path4584"
+                 sodipodi:cx="-213.75"
+                 sodipodi:cy="259.68362"
+                 sodipodi:rx="1.6071428"
+                 sodipodi:ry="1.6071428"
+                 d="m -212.14286,259.68362 c 0,0.8876 -0.71954,1.60715 -1.60714,1.60715 -0.8876,0 -1.60714,-0.71955 -1.60714,-1.60715 0,-0.8876 0.71954,-1.60714 1.60714,-1.60714 0.8876,0 1.60714,0.71954 1.60714,1.60714 z"
+                 transform="matrix(0.69565217,0,0,0.69565217,-66.304349,78.498426)" />
+              <path
+                 sodipodi:type="arc"
+                 style="fill:#000000;fill-opacity:0;stroke:#c87f26;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                 id="path4584-0"
+                 sodipodi:cx="-213.75"
+                 sodipodi:cy="259.68362"
+                 sodipodi:rx="1.6071428"
+                 sodipodi:ry="1.6071428"
+                 d="m -212.14286,259.68362 c 0,0.8876 -0.71954,1.60715 -1.60714,1.60715 -0.8876,0 -1.60714,-0.71955 -1.60714,-1.60715 0,-0.8876 0.71954,-1.60714 1.60714,-1.60714 0.8876,0 1.60714,0.71954 1.60714,1.60714 z"
+                 transform="matrix(0.69565217,0,0,0.69565217,-45.411494,78.498426)" />
+              <path
+                 sodipodi:type="arc"
+                 style="fill:#000000;fill-opacity:0;stroke:#c87f26;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                 id="path4584-4"
+                 sodipodi:cx="-213.75"
+                 sodipodi:cy="259.68362"
+                 sodipodi:rx="1.6071428"
+                 sodipodi:ry="1.6071428"
+                 d="m -212.14286,259.68362 c 0,0.8876 -0.71954,1.60715 -1.60714,1.60715 -0.8876,0 -1.60714,-0.71955 -1.60714,-1.60715 0,-0.8876 0.71954,-1.60714 1.60714,-1.60714 0.8876,0 1.60714,0.71954 1.60714,1.60714 z"
+                 transform="matrix(0.69565217,0,0,0.69565217,-24.518635,78.498426)" />
+            </g>
+          </g>
+          <g
+             id="g5579"
+             transform="translate(1.3867187e-6,-5.9999986)">
+            <text
+               sodipodi:linespacing="125%"
+               id="text5211-9"
+               y="350.30023"
+               x="-566.66077"
+               style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+               xml:space="preserve"><tspan
+                 style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+                 y="350.30023"
+                 x="-566.66077"
+                 id="tspan5213-5"
+                 sodipodi:role="line">Chan. 2</tspan></text>
+          </g>
+          <g
+             id="g5589"
+             transform="translate(1.3867187e-6,-5.9999986)">
+            <text
+               sodipodi:linespacing="125%"
+               id="text5211-8"
+               y="407.1134"
+               x="-566.95374"
+               style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+               xml:space="preserve"><tspan
+                 style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+                 y="407.1134"
+                 x="-566.95374"
+                 id="tspan5213-6"
+                 sodipodi:role="line">Chan. 3</tspan></text>
+          </g>
+          <g
+             id="g5599"
+             transform="translate(1.3867187e-6,-5.9999986)">
+            <text
+               sodipodi:linespacing="125%"
+               id="text5211-3"
+               y="463.92657"
+               x="-567.46155"
+               style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+               xml:space="preserve"><tspan
+                 style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+                 y="463.92657"
+                 x="-567.46155"
+                 id="tspan5213-3"
+                 sodipodi:role="line">Chan. 4</tspan></text>
+          </g>
+          <g
+             id="g5609"
+             transform="translate(1.3867187e-6,-5.9999986)">
+            <text
+               sodipodi:linespacing="125%"
+               id="text5211-0"
+               y="520.73975"
+               x="-566.95374"
+               style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+               xml:space="preserve"><tspan
+                 style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+                 y="520.73975"
+                 x="-566.95374"
+                 id="tspan5213-2"
+                 sodipodi:role="line">Chan. 5</tspan></text>
+          </g>
+          <g
+             id="g5619"
+             transform="translate(1.3867187e-6,-6.1799052)">
+            <text
+               sodipodi:linespacing="125%"
+               id="text5211"
+               y="578.24573"
+               x="-566.89514"
+               style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+               xml:space="preserve"><tspan
+                 style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+                 y="578.24573"
+                 x="-566.89514"
+                 id="tspan5213"
+                 sodipodi:role="line">Chan. 6</tspan></text>
+          </g>
+          <use
+             x="0"
+             y="0"
+             xlink:href="#layer1-3"
+             id="use5940"
+             transform="translate(0,227.35473)"
+             width="744.09448"
+             height="1052.3622" />
+          <use
+             x="0"
+             y="0"
+             xlink:href="#use5940"
+             id="use5942"
+             width="744.09448"
+             height="1052.3622"
+             transform="translate(0,-170.51605)" />
+          <use
+             x="0"
+             y="0"
+             xlink:href="#use5942"
+             id="use5944"
+             transform="translate(0,56.838684)"
+             width="744.09448"
+             height="1052.3622" />
+          <use
+             x="0"
+             y="0"
+             xlink:href="#use5944"
+             id="use5946"
+             transform="translate(0,56.838684)"
+             width="744.09448"
+             height="1052.3622" />
+          <use
+             x="0"
+             y="0"
+             xlink:href="#use5946"
+             id="use5948"
+             transform="translate(0,113.67737)"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
